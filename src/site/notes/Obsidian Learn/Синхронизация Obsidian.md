@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-learn/sinhronizacziya-obsidian/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/obsidian-learn/sinhronizacziya-obsidian/","tags":["gardenEntry"],"created":"2025-02-11T15:01:50.942+03:00"}
 ---
 
 ## Синхронизация с телефоном
