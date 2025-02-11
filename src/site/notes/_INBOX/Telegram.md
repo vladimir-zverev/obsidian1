@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/telegram/","created":"2025-02-11T15:21:09.772+03:00"}
+{"dg-publish":true,"permalink":"/inbox/telegram/","tags":["gardenEntry"],"created":"2025-02-11T15:21:09.772+03:00"}
 ---
 
 **Forwarded from [Руслан Гамзатов | AI маркетинг](https://t.me/AIGamzatov/989)**
